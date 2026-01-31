@@ -1,8 +1,23 @@
+---
+layout: default
+title: 2. Downloading Apps
+nav_order: 3
+description: "Upload programs using mBlock, Python, or command line tools"
+---
+
 # Downloading Apps to CyberPi
+{: .no_toc }
 
 **Beginner-Friendly Guide** | **Learn to Install Programs on Your Robot**
+{: .fs-6 .fw-300 }
 
 This guide shows you how to put programs (apps) onto your mBot2's CyberPi brain.
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 

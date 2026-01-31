@@ -1,6 +1,21 @@
+---
+layout: default
+title: 4. Troubleshooting
+nav_order: 5
+description: "Quick solutions to common mBot2 problems"
+---
+
 # mBot2 Troubleshooting Guide
+{: .no_toc }
 
 **Quick Solutions to Common Problems**
+{: .fs-6 .fw-300 }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 

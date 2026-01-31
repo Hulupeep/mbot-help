@@ -1,8 +1,23 @@
+---
+layout: default
+title: 3. Adding Peripherals
+nav_order: 4
+description: "Connect displays, GPS, cameras, and audio modules to your mBot2"
+---
+
 # Adding Peripherals to mBot2
+{: .no_toc }
 
 **Beginner-Friendly Guide** | **Learn to Connect Extra Devices**
+{: .fs-6 .fw-300 }
 
 This guide shows you how to add extra sensors, displays, cameras, and other devices to your mBot2.
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 

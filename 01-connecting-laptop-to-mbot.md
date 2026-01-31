@@ -1,8 +1,23 @@
+---
+layout: default
+title: 1. Connecting to mBot2
+nav_order: 2
+description: "Step-by-step USB connection, driver installation, and connection testing"
+---
+
 # Connecting Your Laptop to mBot2
+{: .no_toc }
 
 **Beginner-Friendly Guide** | **No Prior Experience Required**
+{: .fs-6 .fw-300 }
 
 This guide walks you through connecting your laptop to your mBot2 robot step by step, as if you've never done this before.
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
