@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: home
 title: Home
 nav_order: 1
 description: "Beginner-friendly guides for setting up, programming, and extending your mBot2 robot with RuVector AI companion firmware"
 permalink: /
+has_children: false
 ---
 
 # mBot2 RuVector Documentation

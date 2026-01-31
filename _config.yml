@@ -8,7 +8,7 @@ baseurl: "/mbot-help"
 url: "https://hulupeep.github.io"
 
 # Theme
-remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.8.2
 
 # Color scheme
 color_scheme: dark
@@ -98,7 +98,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor/
+  - README-old.md
+  - SETUP.md
 
 # Plugins
 plugins:
   - jekyll-seo-tag
+  - jekyll-github-metadata
